@@ -15,7 +15,7 @@ Este proyecto utiliza Vite como herramienta de construcción. Para configurar el
 1. **Clona el repositorio**:
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/jpopfahrenheit/ecommerce-OjedaJuanPablo
     ```
 
 2. **Accede al directorio del proyecto**:
