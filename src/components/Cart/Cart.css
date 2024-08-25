@@ -1,0 +1,15 @@
+.itemCart{
+    background-color: orange;
+    justify-content: start;
+    align-items: start;
+}
+.itemCart img{
+    margin-bottom: 20px;
+    max-width: 200px;
+}
+.col-3{
+    justify-items: center;
+    align-content: center;
+    background-color: aqua;
+
+}

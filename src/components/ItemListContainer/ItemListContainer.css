@@ -1,0 +1,18 @@
+.titulo{
+    margin: 20px;
+}
+.tarjeta {
+    display: flex;  
+    width: 330px;
+}
+
+.tarjetaTitulo {
+    margin-top: 1rem; 
+    padding-top: 10px;
+}
+
+.tarjetaImg {
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+}

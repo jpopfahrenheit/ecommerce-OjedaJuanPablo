@@ -1,0 +1,23 @@
+.tarjetaImg {
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+}
+
+.descripcion {
+
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.precio {
+background: navajowhite;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
