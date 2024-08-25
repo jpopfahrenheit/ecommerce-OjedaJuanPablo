@@ -18,13 +18,7 @@ Este proyecto utiliza Vite como herramienta de construcción. Para configurar el
     git clone https://github.com/jpopfahrenheit/ecommerce-OjedaJuanPablo
     ```
 
-2. **Accede al directorio del proyecto**:
-
-    ```bash
-    cd zapatillas-center
-    ```
-
-3. **Instala las dependencias**:
+2. **Instala las dependencias**:
 
     Instala todas las dependencias necesarias utilizando el comando `npm install`. Esto leerá el archivo `package.json` y descargará todas las librerías requeridas:
 
@@ -32,7 +26,7 @@ Este proyecto utiliza Vite como herramienta de construcción. Para configurar el
     npm install
     ```
 
-4. **Inicia el servidor de desarrollo**:
+3. **Inicia el servidor de desarrollo**:
 
     Para iniciar el entorno de desarrollo y ver la aplicación en acción, ejecuta el siguiente comando:
 
@@ -54,10 +48,3 @@ El proyecto utiliza las siguientes librerías:
 - **react-router-dom**: ^6.26.0
 - **sweetalert2**: ^11.12.4
 - **yup**: ^1.4.0
-
-## Uso
-
-Para iniciar el entorno de desarrollo, ejecuta el siguiente comando en la terminal:
-
-```bash
-npm run dev
