@@ -50,10 +50,11 @@ export const Cart = () => {
                     ))}
                 </Col>
 
-                <Col className="col-3">
+                <Col className="col-3 text-center">
                     <h3>Total: ${total}</h3>
-                    <button onClick={reset}>Vaciar</button>
                     <button onClick={handleCheckout}>Ir a Checkout</button>
+                    <hr/>
+                    <button onClick={reset}>Vaciar carrito</button>
                 </Col>
             </Row>
         </Container>
